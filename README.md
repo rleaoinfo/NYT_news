@@ -1,11 +1,12 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<br />
+<p align="center">
 
 
-<!-- PROJECT LOGO -->
+  <h3 align="center">New York Times News (Fast Track Project)</h3>
 
-  <h3 align="center">New York News</h3>
-
+ 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -38,7 +39,7 @@
 **New York News Preview** <br>
 <a href="https://ibb.co/1R69VxW"><img src="https://i.ibb.co/bNJrhn9/NYT-News.png" alt="NYT-News" border="0" /></a>
 
-Web news application that uses the NYT (New York Times) api and displays a list of news about "technology" and "science".
+Web application that uses the NYT (New York Times) API and displays a list of news about "technology" and "science".
 
 ### Built With
   
@@ -113,8 +114,6 @@ NYT_News : [https://github.com/rleaoinfo/NYT_news](https://github.com/rleaoinfo/
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rafaelsilvaleao/
-[product-screenshot]: images/screenshot.png
