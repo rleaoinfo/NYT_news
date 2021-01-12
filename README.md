@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**New York News Preview**
+**New York News Preview** <br>
 <a href="https://ibb.co/1R69VxW"><img src="https://i.ibb.co/bNJrhn9/NYT-News.png" alt="NYT-News" border="0" /></a>
 
 Web news application that uses the NYT (New York Times) api and displays a list of news about "technology" and "science".
