@@ -1,11 +1,11 @@
 
 
+
 <br />
-<p align="center">
 
-
-  <h3 align="center">New York Times News (Fast Track Project)</h3>
-
+  <h2 align="center">New York Times News </h2>
+  <h4 align="center">Fast Track Project</h4>
+<br />
  
 
 <!-- TABLE OF CONTENTS -->
