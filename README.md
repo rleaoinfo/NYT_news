@@ -65,11 +65,11 @@ To use the project locally you will need to follow the steps below
 Things you need to use the software and how to install.
 * node.js
   ```sh
-  v10.18.1 or later;
+  v10.18.1 or latest;
   ```
 * npm
   ```sh
-  v6.14.8 or later;
+  v6.14.8 or latest;
   ```
 ### Installation
 
