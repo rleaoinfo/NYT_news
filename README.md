@@ -62,7 +62,7 @@ To use the project locally you will need to follow the steps below
 
 ### Prerequisites
 
-Things you need to use the software and how to install.
+Things you need to use the web app and how to install.
 * node.js
   ```sh
   v10.18.1 or latest;
