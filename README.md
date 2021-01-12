@@ -74,7 +74,7 @@ Things you need to use the software and how to install.
 ### Installation
 
 1. Create an account at [https://developer.nytimes.com](https://developer.nytimes.com)
-2. After login click on your email and the apps option and create your key
+2. After login click on your email and the apps option then create your key
 3. Authorize Top Stories API at [https://developer.nytimes.com/docs/top-stories-product/1/overview](https://developer.nytimes.com/docs/top-stories-product/1/overview) 
 4. Clone the repo
    ```sh
