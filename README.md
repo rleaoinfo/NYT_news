@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <br />
 <p align="center">
@@ -110,6 +110,7 @@ Rafael Leão - rleaoinfo@gmail.com
 
 NYT_News : [https://github.com/rleaoinfo/NYT_news](https://github.com/rleaoinfo/NYT_news)
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
