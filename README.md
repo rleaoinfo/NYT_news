@@ -43,7 +43,7 @@ Web application that uses the NYT (New York Times) API and displays a list of ne
 
 ### Built With
   
-The project used the addon / plugins / framewoks below.
+The project back-end and front-end used the addon / plugins / framewoks below.
 
 * [Apollo](https://www.apollographql.com/docs/apollo-server/) 
 * [Axios](https://www.npmjs.com/package/axios)
