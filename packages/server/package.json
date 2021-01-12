@@ -1,0 +1,36 @@
+{
+  "name": "nyt_techview",
+  "version": "1.0.0",
+  "description": "Aplicação proposta como atividade da compasso uol",
+  "main": "index.js",
+  "scripts": {
+    "prod": "node src/server.ts",
+    "dev": "nodemon src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rleaoinfo/nyt_techview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rleaoinfo/nyt_techview/issues"
+  },
+  "homepage": "https://github.com/rleaoinfo/nyt_techview#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.1",
+    "axios": "^0.21.1",
+    "class-validator": "^0.12.2",
+    "date-fns": "^2.16.1",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.4.0",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
+}

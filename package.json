@@ -1,0 +1,21 @@
+{
+  "name": "projetc_nyt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install:all": "npm i && install:server && install:front",
+    "install:server": "cd packages/server && npm i",
+    "install:front": "cd packages/front && npm i",
+    "watch:server": "cd packages/server && npm run dev",
+    "start:server": "cd packages/server && npm run prod",
+    "start:front": "cd packages/front && npm run start",
+    "start": "npm-run-all --parallel watch:server start:front"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
