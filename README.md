@@ -45,6 +45,7 @@ Web news application that uses the NYT (New York Times) api and displays a list 
 The project used the addon / plugins / framewoks below.
 
 * [Apollo](https://www.apollographql.com/docs/apollo-server/) 
+* [Axios](https://www.npmjs.com/package/axios)
 * [Graphql](https://graphql.org)
 * [Node.js](https://nodejs.org/en/)
 * [React](https://pt-br.reactjs.org)
